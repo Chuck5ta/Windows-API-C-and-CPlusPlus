@@ -1,0 +1,17 @@
+﻿  Main.cpp
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(161): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(168): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(182): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(187): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(192): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(197): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(221): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(227): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(227): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(230): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(230): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(664): warning C4244: '=': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+d:\current projects\studying\game hacking\windows-api-c-and-cplusplus\winapi standard controls\orcs must die 2 trainer\orcs must die 2\main.cpp(676): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  DataConversion.cpp
+  Generating Code...
+  Orcs Must Die 2.vcxproj -> D:\Current Projects\Studying\Game Hacking\Windows-API-C-and-CPlusPlus\WinAPI Standard Controls\Orcs Must Die 2 Trainer\x64\Debug\Orcs Must Die 2.exe

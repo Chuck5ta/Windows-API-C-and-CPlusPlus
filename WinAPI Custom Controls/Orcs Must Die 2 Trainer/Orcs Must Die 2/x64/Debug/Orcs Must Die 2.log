@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(125): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(132): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(146): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(151): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(156): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(161): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(645): warning C4244: '=': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+d:\current projects\studying\game hacking\my hacks\orcs must die 2\new folder\orcs must die 2\main.cpp(657): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Orcs Must Die 2.vcxproj -> D:\Current Projects\Studying\Game Hacking\My Hacks\Orcs Must Die 2\New folder\x64\Debug\Orcs Must Die 2.exe

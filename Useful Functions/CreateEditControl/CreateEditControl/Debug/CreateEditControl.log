@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\current projects\studying\game hacking\createeditcontrol\createeditcontrol\main.cpp(14): warning C4005: 'GWL_HINSTANCE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(1882): note: see previous definition of 'GWL_HINSTANCE'
+  CreateEditControl.vcxproj -> D:\Current Projects\Studying\Game Hacking\CreateEditControl\Debug\CreateEditControl.exe

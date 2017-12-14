@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\current projects\studying\game hacking\cplusplus\cplusplusandwin32\useful functions\createeditcontrol\createeditcontrol\main.cpp(49): warning C4312: 'type cast': conversion from 'LONG' to 'HINSTANCE' of greater size
+d:\current projects\studying\game hacking\cplusplus\cplusplusandwin32\useful functions\createeditcontrol\createeditcontrol\main.cpp(152): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  CreateEditControl.vcxproj -> D:\Current Projects\Studying\Game Hacking\CPlusPlus\CPlusPlusAndWin32\Useful Functions\CreateEditControl\x64\Debug\CreateEditControl.exe
