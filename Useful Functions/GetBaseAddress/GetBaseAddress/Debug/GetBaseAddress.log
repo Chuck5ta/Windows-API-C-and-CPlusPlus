@@ -1,0 +1,3 @@
+﻿  Main.cpp
+d:\current projects\studying\game hacking\getbaseaddress\getbaseaddress\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  GetBaseAddress.vcxproj -> D:\Current Projects\Studying\Game Hacking\GetBaseAddress\Debug\GetBaseAddress.exe
