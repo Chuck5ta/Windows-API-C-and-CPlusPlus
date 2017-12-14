@@ -54,6 +54,7 @@ LRESULT CALLBACK WindowProcedure(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lPar
 		// Set the font to Arial
 		SendMessage(hTitleText, WM_SETFONT, (WPARAM)fontArial, MAKELPARAM(true, 0));
 	}
+	break;
 	case WM_CTLCOLORSTATIC: // need this to change/set the background colour of the static controls (e.g. title, labels, etc)
 	{   // this will change the text and background colour of all Static Control (text/labels)
 		HDC hdcStatic = (HDC)wParam;
